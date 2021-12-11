@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+body
+{
+text-align : center;	
+}
+h1
+{
+	text-align : center;
+	font-size : 40px;
+	color: blue;
+	padding :30px;
+}
+btn
+{
+	background-color: red;
+	color: white;
+	text-align : center;
+	width : 30%;
+	height : 20%;
+}

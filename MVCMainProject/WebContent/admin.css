@@ -1,0 +1,113 @@
+@charset "ISO-8859-1";
+
+h1
+{
+	text-align : center;
+	font-size : 40px;
+	color: blue;
+	padding :30px;
+	
+	
+}
+fieldset
+{
+	border-color : 1px solid firebrick;
+	border-radius: 10px;                                 /*to give curved side box*/
+	text-align: center;
+	padding : 50px;
+	  
+}
+table
+{
+	text-align : center;
+	border : 2px solid firebrick;
+	border-radius : 10px;
+	padding : 20px;
+	width : 100%;						/*to cover full page table*/
+	background-color: whitesmoke;
+	color : solid firebrick;
+	border-spacing : 10px;
+	align : center;
+	margin : 10px;
+}
+tr
+{
+	border : 2px solid firebrick;
+	border-radius : 10px;
+	padding : 10px;
+	
+	background-color : firebrick
+	color : whitesmoke;
+	
+}
+td
+{
+	text-align : center;
+	border : 2px solid firebrick;
+	border-radius : 10px;
+	padding : 10px;
+	border :0;
+	font-family : Monteserrat;
+}
+span
+{
+	text-align: center;
+	width : 50px;
+	border-radius : 50px;
+	box-shadow : 5px 5px 5px-grey;
+	img-align : center;
+}
+btn
+{
+	width : 20%;
+background-color : red;
+border : 50px solid-green-yellow;
+}
+input[type="submit"] 
+{
+	background-color: red;
+	color: white;
+}
+.container
+{
+	table-align : center;
+	text-align : center;
+	font-size : 20px;
+	color: green;
+	padding :30px;
+	background : white
+	border-radius: 10px;
+	color : firerick;
+	width : 80%;
+	margin : 10%;
+	
+}
+div
+{
+	text-align : center;
+	border : 5px-red;
+	padding : 50px;
+	img-align :center;
+	width : 50px;
+	height : 10px;
+	
+}
+span
+
+{
+	width : 50%;
+	height : 50%;
+	border : 0px;
+	text-align : center;
+}
+.center
+{
+	display: inline-block;
+	width : 100%;
+	align-items : center;
+	margin-left : auto;
+	margin-right : auto;
+	border-radius: 50px;
+	vertical-align: middle;
+}
+

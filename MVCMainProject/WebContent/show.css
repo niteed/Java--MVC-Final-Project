@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+h1
+{
+	text-align : center;
+	font-size : 40px;
+	color: green;
+	padding :30px;
+}
+table
+{
+	border : blue;
+	border-radius : 2px;
+	border-width : 2px;
+	text-align : center;
+}
+

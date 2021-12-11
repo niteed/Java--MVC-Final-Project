@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+body
+{
+text-align : center;	
+}
+h1
+{
+	text-align : center;
+	font-size : 40px;
+	color: #0000ff;
+	padding :30px;
+}
+.container
+{
+	margin-left : 30%;
+	margin-left : 30%;
+	align : center;
+	text-align : center;
+	font-size : 20px;
+	color: green;
+	padding :30px;
+	background : white
+	border-radius: 10px;
+	color : firerick;
+	width : 80%;
+	
+}
+input[type="submit"] 
+{
+	background-color: red;
+	color: white;
+	text-align : center;
+	width : 50%;
+	height : 30%;
+}
+tr
+{
+	border : 2px solid firebrick;
+	border-radius : 10px;
+	padding : 10px;
+	
+	background-color : firebrick
+	color : whitesmoke;
+	
+}
+td
+{
+	text-align : center;
+	border : 2px solid firebrick;
+	border-radius : 10px;
+	padding : 10px;
+	border :0;
+	font-family : Monteserrat;
+}
+input[type="button"] 
+{
+	background-color: red;
+	color: white;
+	text-align : center;
+	width : 50%;
+	height : 30%;
+}
